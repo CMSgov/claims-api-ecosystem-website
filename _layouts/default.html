@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+	{% include head.html %}
+  <body class="ds-base">
+		{% include nav.html %}
+		{% include header.html %}
+    <h1>{{ page.title }}</h1>
+    <section class="ds-l-container">
+			<div class="ds-l-row">
+				<div class="ds-l-col">
+					{{ content }}
+				</div>
+			</div>
+    </section>
+		{% include footer.html %}
+  </body>
+</html>

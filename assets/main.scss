@@ -1,0 +1,13 @@
+---
+---
+
+@import "variables";
+@import "../node_modules/@cmsgov/design-system/dist/scss/";
+
+
+// Custom card component (utilizing CMS Design System color variables - neat!)
+.ds-c-card {
+	background: $color-white;
+	border: 1px solid $color-gray-lighter;
+	border-radius: .3rem;
+}
