@@ -12,6 +12,8 @@ Claims data provides insight into **medications, procedures, urgent care, hospit
 
 ---
 
+<section id="getStarted"></section>
+
 ## Find the right tool for you
 
 Our products deliver claims data to different types of healthcare entities, organizations, and companies. Review the use cases below to find out what product is right for your organization.
