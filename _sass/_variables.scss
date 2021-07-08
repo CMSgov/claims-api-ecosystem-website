@@ -4,3 +4,7 @@
 	padding: 0;
 }
 
+// Adds spacing and line breaks for headings/paragraphs in markdown
+h2, h3, h4, h5, h6, p, hr {
+	margin-bottom: 1rem;
+}
