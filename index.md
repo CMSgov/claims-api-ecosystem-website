@@ -10,9 +10,41 @@ Claims data provides insight into **medications, procedures, urgent care, hospit
 
 {% include use-cases.html %}
 
+---
+
 ## Find the right tool for you
 
 Our products deliver claims data to different types of healthcare entities, organizations, and companies. Review the use cases below to find out what product is right for your organization.
+
+### For healthcare providers at the point of care:
+
+Help save valuable time by revealing the past procedures and medical history of Medicare beneficiaries at the point of care.
+
+[Explore Data at the Point of Care](http://dpc.cms.gov)
+
+### For Accountable Care Organizations: 
+
+Get insight into your assigned beneficiary populations with Medicare claims data, population health, and quality performance monitoring.
+
+Our products provide Medicare Part A, Part B, and Part D claims data on a weekly basis (and in some cases faster).
+
+[Explore the Beneficiary Claims Data API](http://bcda.cms.gov)
+
+### Empower beneficiaries to access and share their data:
+
+Allow Medicare beneficiaries to auto-fill historical information (like prescriptions) when being evaluated for a potential service, insurance plan, or research study.
+
+With the Blue Button 2.0 API, you can also allow Medicare beneficiaries to consent to share their data with an application, patient portal, diagnostic service, and more!
+
+[Explore Blue Button 2.0](http://bluebutton.cms.gov)
+
+### For Prescription Drug Sponsors:
+
+Share and provide FHIR-formatted bulk claims data to stand-alone PDP sponsors for their enrollees in accordance with [Bipartisan Budget Act of 2018 (BBA)](https://www.congress.gov/bill/115th-congress/house-bill/1892/text). Claims data can help enhance patient safety, optimize thereputic outcomes, and reduce a patient's burden in providing medical history.
+
+[Explore the AB2D API](http://ab2d.cms.gov)
+
+---
 
 ## How it works
 
