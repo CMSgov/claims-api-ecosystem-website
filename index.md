@@ -24,7 +24,7 @@ Help save valuable time by revealing the past procedures and medical history of 
 
 <a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://dpc.cms.gov">Explore Data at the Point of Care</a>
 
-### For Accountable Care Organizations: 
+### For Accountable Care Organizations:
 
 Get insight into your assigned beneficiary populations with Medicare claims data, population health, and quality performance monitoring.
 
@@ -40,9 +40,9 @@ With the Blue Button 2.0 API, you can also allow Medicare beneficiaries to conse
 
 <a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://bluebutton.cms.gov">Explore the Blue Button 2.0 API</a>
 
-### For Prescription Drug Sponsors:
+### For Prescription Drug Plan Sponsors:
 
-Share and provide FHIR-formatted bulk claims data to stand-alone PDP sponsors for their enrollees in accordance with [Bipartisan Budget Act of 2018 (BBA)](https://www.congress.gov/bill/115th-congress/house-bill/1892/text). Claims data can help enhance patient safety, optimize thereputic outcomes, and reduce a patient's burden in providing medical history.
+Provide FHIR-formatted bulk claims data to stand-alone Prescription Drug Plan (PDP) sponsors for their enrollees in accordance with [Bipartisan Budget Act of 2018 (BBA)](https://www.congress.gov/bill/115th-congress/house-bill/1892/text). Claims data can help PDP sponsors to better promote the appropriate use of medications and improve health outcomes and reduce a patient's burden in providing medical history.
 
 <a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://ab2d.cms.gov">Explore the AB2D API</a>
 
