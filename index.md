@@ -42,7 +42,7 @@ With the Blue Button 2.0 API, you can also allow Medicare beneficiaries to conse
 
 ### For Prescription Drug Plan Sponsors:
 
-Provide FHIR-formatted bulk claims data to stand-alone Prescription Drug Plan (PDP) sponsors for their enrollees in accordance with [Bipartisan Budget Act of 2018 (BBA)](https://www.congress.gov/bill/115th-congress/house-bill/1892/text). Claims data can help PDP sponsors to better promote the appropriate use of medications and improve health outcomes and reduce a patient's burden in providing medical history.
+Provide FHIR-formatted bulk claims data about plan enrollees to stand-alone Prescription Drug Plan (PDP) sponsors in accordance with [Bipartisan Budget Act of 2018 (BBA)](https://www.congress.gov/bill/115th-congress/house-bill/1892/text). Claims data can help PDP sponsors to better promote the appropriate use of medications and improve health outcomes and reduce a patient's burden in providing medical history.
 
 <a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://ab2d.cms.gov">Explore the AB2D API</a>
 
