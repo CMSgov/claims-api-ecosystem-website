@@ -20,7 +20,7 @@ Our products deliver claims data to different types of healthcare entities, orga
 
 Help save valuable time by revealing the past procedures and medical history of Medicare beneficiaries at the point of care.
 
-[Explore Data at the Point of Care](http://dpc.cms.gov)
+<a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://dpc.cms.gov">Explore Data at the Point of Care</a>
 
 ### For Accountable Care Organizations: 
 
@@ -28,7 +28,7 @@ Get insight into your assigned beneficiary populations with Medicare claims data
 
 Our products provide Medicare Part A, Part B, and Part D claims data on a weekly basis (and in some cases faster).
 
-[Explore the Beneficiary Claims Data API](http://bcda.cms.gov)
+<a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://bcda.cms.gov">Explore the Beneficiary Claims Data API</a>
 
 ### Empower beneficiaries to access and share their data:
 
@@ -36,13 +36,13 @@ Allow Medicare beneficiaries to auto-fill historical information (like prescript
 
 With the Blue Button 2.0 API, you can also allow Medicare beneficiaries to consent to share their data with an application, patient portal, diagnostic service, and more!
 
-[Explore Blue Button 2.0](http://bluebutton.cms.gov)
+<a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://bluebutton.cms.gov">Explore the Blue Button 2.0 API</a>
 
 ### For Prescription Drug Sponsors:
 
 Share and provide FHIR-formatted bulk claims data to stand-alone PDP sponsors for their enrollees in accordance with [Bipartisan Budget Act of 2018 (BBA)](https://www.congress.gov/bill/115th-congress/house-bill/1892/text). Claims data can help enhance patient safety, optimize thereputic outcomes, and reduce a patient's burden in providing medical history.
 
-[Explore the AB2D API](http://ab2d.cms.gov)
+<a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://ab2d.cms.gov">Explore the AB2D API</a>
 
 ---
 
