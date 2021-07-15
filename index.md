@@ -32,7 +32,7 @@ Our products provide Medicare Part A, Part B, and Part D claims data on a weekly
 
 <a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://bcda.cms.gov">Explore the Beneficiary Claims Data API</a>
 
-### Empower beneficiaries to access and share their data:
+### For empowering beneficiaries to access and share their data:
 
 Allow Medicare beneficiaries to auto-fill historical information (like prescriptions) when being evaluated for a potential service, insurance plan, or research study.
 
