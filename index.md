@@ -8,7 +8,7 @@ layout: default
 
 Claims data provides insight into **medications, procedures, urgent care, hospital, ER visits**, and more.
 
-{% include use-cases.html %}
+{% include benefits-widget.html %}
 
 ---
 
