@@ -22,7 +22,7 @@ Our products deliver claims data to different types of healthcare entities, orga
 
 ### For healthcare providers at the point of care:
 
-Help save valuable time by revealing the past procedures and medical history of Medicare beneficiaries at the point of care.
+Help save valuable time by revealing the past procedures and medical history of people with Medicare at the point of care.
 
 <a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://dpc.cms.gov">Explore the Data at the Point of Care API</a>
 
@@ -40,9 +40,9 @@ Our products provide Medicare Part A, Part B, and Part D claims data on a weekly
 
 ### For empowering beneficiaries to access and share their data:
 
-Allow Medicare beneficiaries to auto-fill historical information (like prescriptions) when being evaluated for a potential service, insurance plan, or research study.
+Allow people with Medicare to auto-fill historical information (like prescriptions) when being evaluated for a potential service, insurance plan, or research study.
 
-With the Blue Button 2.0 API, you can also allow Medicare beneficiaries to consent to share their data with an application, patient portal, diagnostic service, and more!
+With the Blue Button 2.0 API, you can also allow people with Medicare to consent to share their data with an application, patient portal, diagnostic service, and more!
 
 <a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://bluebutton.cms.gov">Explore the Blue Button 2.0 API</a>
 
@@ -71,7 +71,7 @@ Provide FHIR-formatted bulk claims data about plan enrollees to stand-alone Pres
 
 ## What is Claims Data?
 
-Medicare claims data is information about healthcare experiences for Medicare beneficiaries Business, organizations, and individual can all benefit from the power of claims data in applications and services.
+Medicare claims data is information about healthcare experiences for people with Medicare. Businesses, organizations, and individuals can all benefit from the power of claims data in applications and services.
 
 <div class="ds-c-card ds-u-padding--4 ds-u-margin-y--4">
 	<div class="ds-text-heading--lg">
@@ -90,4 +90,3 @@ Medicare claims data is information about healthcare experiences for Medicare be
 		You are Ben’s primary care provider in Chicago. You see him for an annual visit in July. Because of the data shared through the DPC API, you have a clearer understanding of his care history, reducing the burden on both you and Ben, and improving the quality of care you’re able to give him.
 	</div>
 </div>
-
