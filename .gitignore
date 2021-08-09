@@ -4,4 +4,5 @@ _site
 .sass-cache/
 node_modules/
 .swp
+*.swp
 .*.m.swp
