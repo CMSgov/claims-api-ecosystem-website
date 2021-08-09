@@ -38,7 +38,7 @@ Our products provide Medicare Part A, Part B, and Part D claims data on a weekly
 
 <br />
 
-### For empowering beneficiaries to access and share their data:
+### For empowering people with Medicare to access and share their data:
 
 Allow people with Medicare to auto-fill historical information (like prescriptions) when being evaluated for a potential service, insurance plan, or research study.
 
@@ -78,7 +78,7 @@ Medicare claims data is information about healthcare experiences for people with
 		Below is an example of how claims data could be used:
 		</div>
 		<div>
-		Ben is a snowbird who spends his summers in Chicago and his winters in Florida. He is a traditional Medicare beneficiary (FFS, not MA) who recently had surgery at a hospital in Florida.
+		Ben is a snowbird who spends his summers in Chicago and his winters in Florida. He is a traditional person with Medicare (FFS, not MA) who recently had surgery at a hospital in Florida.
 		<br />
 		<br />
 		Ben was admitted to the hospital on January 2nd and had aortic valve replacement surgery on January 3rd. He was discharged to a skilled nursing facility on January 6th and discharged to his home on January 20th. During Ben’s stay at the skilled nursing facility, he is diagnosed with pneumonia and prescribed amoxicillin.
