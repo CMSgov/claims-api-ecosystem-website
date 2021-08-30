@@ -4,61 +4,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-## See the Benefits
+## Find the right tool for you.
 
-Claims data provides insight into **medications, procedures, urgent care, hospital, ER visits**, and more.
+This suite of APIs deliver claims data to different types of healthcare entities, organizations, and companies. Review the use cases below to find out what product is right for your organization. These APIs are RESTful-based web service providing Medicare Parts A, B, and D claims data using the industry-standard HL7 Fast Healthcare Interoperability Resources (FHIR) resources.
 
-{% include benefits-widget.html %}
-
----
-
-<section id="getStarted"></section>
-
-## Find the right tool for you
-
-Our products deliver claims data to different types of healthcare entities, organizations, and companies. Review the use cases below to find out what product is right for your organization.
-
-<br />
-
-### For healthcare providers at the point of care:
-
-Help save valuable time by revealing the past procedures and medical history of people with Medicare at the point of care.
-
-<a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://dpc.cms.gov">Explore the Data at the Point of Care API</a>
-
-<br />
-
-### For Accountable Care Organizations:
-
-Get insight into your assigned beneficiary populations with Medicare claims data, population health, and quality performance monitoring.
-
-Our products provide Medicare Part A, Part B, and Part D claims data on a weekly basis (and in some cases faster).
-
-<a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://bcda.cms.gov">Explore the Beneficiary Claims Data API</a>
-
-<br />
-
-### For empowering people with Medicare to access and share their data:
-
-Allow people with Medicare to auto-fill historical information (like prescriptions) when being evaluated for a potential service, insurance plan, or research study.
-
-With the Blue Button 2.0 API, you can also allow people with Medicare to consent to share their data with an application, patient portal, diagnostic service, and more!
-
-<a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://bluebutton.cms.gov">Explore the Blue Button 2.0 API</a>
-
-<br />
-
-### For Prescription Drug Plan Sponsors:
-
-Provide FHIR-formatted bulk claims data about plan enrollees to stand-alone Prescription Drug Plan (PDP) sponsors in accordance with [Bipartisan Budget Act of 2018 (BBA)](https://www.congress.gov/bill/115th-congress/house-bill/1892/text). Claims data can help PDP sponsors to better promote the appropriate use of medications and treatment plans in order to improve health outcomes. This data can also reduce a patient's burden in providing their medical history.
-
-<a class="ds-c-button ds-c-button--primary ds-c-button--inverse ds-u-font-weight--normal" href="http://ab2d.cms.gov">Explore the AB2D API</a>
-
-<br />
+{% include use-cases-widget.html %}
 
 ---
 
-## How it works
+## How do I get access to the data?
 
 <ol class="ds-c-list ds-u-margin-bottom--4" aria-labelledby="ordered-list-id">
 	<li>Connect to the service that best fits your needs</li>
@@ -69,14 +23,14 @@ Provide FHIR-formatted bulk claims data about plan enrollees to stand-alone Pres
 
 ---
 
-## What is Claims Data?
+## How can claims data be used?
 
-Medicare claims data is information about healthcare experiences for people with Medicare. Businesses, organizations, and individuals can all benefit from the power of claims data in applications and services.
+Medicare claims data is information about healthcare experiences for people with Medicare. Businesses, organizations, and individuals can all benefit from the power of claims data in applications and services. For example:
 
 <div class="ds-c-card ds-u-padding--4 ds-u-margin-y--4">
-	<div class="ds-text-heading--lg">
-		Below is an example of how claims data could be used:
-		</div>
+	<!-- <div class="ds-text-heading--lg">
+		Better 
+		</div> -->
 		<div>
 		Ben is a snowbird who spends his summers in Chicago and his winters in Florida. He is a traditional person with Medicare (FFS, not MA) who recently had surgery at a hospital in Florida.
 		<br />
