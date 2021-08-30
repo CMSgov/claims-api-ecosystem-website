@@ -4,15 +4,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-## Find the right tool for you
+## Find the right tool for you.
 
-Our products deliver claims data to different types of healthcare entities, organizations, and companies. Review the use cases below to find out what product is right for your organization.
+This suite of APIs deliver claims data to different types of healthcare entities, organizations, and companies. Review the use cases below to find out what product is right for your organization. These APIs are RESTful-based web service providing Medicare Parts A, B, and D claims data using the industry-standard HL7 Fast Healthcare Interoperability Resources (FHIR) resources.
 
 {% include use-cases-widget.html %}
 
 ---
 
-## How it works
+## How do I get access to the data?
 
 <ol class="ds-c-list ds-u-margin-bottom--4" aria-labelledby="ordered-list-id">
 	<li>Connect to the service that best fits your needs</li>
@@ -23,14 +23,14 @@ Our products deliver claims data to different types of healthcare entities, orga
 
 ---
 
-## What is Claims Data?
+## How can claims data be used?
 
-Medicare claims data is information about healthcare experiences for people with Medicare. Businesses, organizations, and individuals can all benefit from the power of claims data in applications and services.
+Medicare claims data is information about healthcare experiences for people with Medicare. Businesses, organizations, and individuals can all benefit from the power of claims data in applications and services. For example:
 
 <div class="ds-c-card ds-u-padding--4 ds-u-margin-y--4">
-	<div class="ds-text-heading--lg">
-		Below is an example of how claims data could be used:
-		</div>
+	<!-- <div class="ds-text-heading--lg">
+		Better 
+		</div> -->
 		<div>
 		Ben is a snowbird who spends his summers in Chicago and his winters in Florida. He is a traditional person with Medicare (FFS, not MA) who recently had surgery at a hospital in Florida.
 		<br />
